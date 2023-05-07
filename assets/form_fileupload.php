@@ -7,6 +7,7 @@ chmod : 744/755 is best | it access superuser
 terminal check [ls]
 */
 
+
 $allowedTypes = array(
   'image/png',
   'image/jpg',
