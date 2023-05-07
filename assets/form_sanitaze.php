@@ -68,7 +68,6 @@ header('X-XSS-Protection:0');
 </body>
 </html>
 
-
 <!-- 
 htmlspecialchars(); - এই ফাংশন এর মাধ্যমে সে html-এর যে কোন কিছুকে সে string বানিয়ে ফেলবে
  -->
