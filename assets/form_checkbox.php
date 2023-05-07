@@ -3,7 +3,9 @@
 
 header('X-XSS-Protection:0');
 include_once "./form_checkbox-function.php";
+
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
