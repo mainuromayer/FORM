@@ -1,5 +1,5 @@
 <?php
-// Multiple file uploads in PHP -
+# Multiple file uploads in PHP -
 
 $allowedTypes = array(
     'image/png',
