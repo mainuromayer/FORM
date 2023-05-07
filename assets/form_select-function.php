@@ -1,5 +1,4 @@
 <?php
-
 function displayOptions($options, $selectedValues){
     foreach($options as $option){
         $option = strtolower($option);  // Banana | banana
