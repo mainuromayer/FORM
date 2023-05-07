@@ -1,5 +1,6 @@
 <?php
 // Detailed discussion on select field -
+
 include_once "form_select-function.php";
 
 $fruits = ["mango", "orange", "Banana", "apple", "lemon", "peach"];
