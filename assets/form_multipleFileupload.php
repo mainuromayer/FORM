@@ -82,7 +82,6 @@ if(isset($_FILES['photo'])){
                 <input type="file" name="photo[]" id="photo">
                 <input type="file" name="photo[]" id="photo">
 
-
                 <br><br>
 
                 <button type="submit">Submit</button>
